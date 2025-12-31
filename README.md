@@ -21,4 +21,4 @@ Steps to implement the project
   - Sync the EC2 instance and S3 bucket, you'll be able to see the files in your instance, the ones you uploaded in the bucket
   - Install and enable Docker on the instance
   - Build a Docker image of the respective Docker file
-  - Run the image as as Docker container   
+  - Run the image as Docker container   
